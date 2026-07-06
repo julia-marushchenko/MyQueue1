@@ -18,7 +18,7 @@ public class Main {
         // Creating a queue.
         Queue<Integer> queue = new ArrayDeque<>();
 
-        // Adding elements to the q.
+        // Adding elements to the queue.
         queue.offer(10);
         queue.offer(25);
         queue.offer(30);
